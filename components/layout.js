@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Head from 'next/head'
 import Link from 'next/link'
 
-const name = 'Jake'
+const name = 'Ata Tolga'
 export const siteTitle = "AtaT.'s Blog Site"
 
 
