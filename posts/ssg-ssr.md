@@ -1,19 +1,16 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2020-01-02'
+title: 'Daha doğrusu benim Mardin ve içindekiler hakkında (kötü) **düşüncelerim** 🙂'
+date: '2022-01-16'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+### Mardin
 
-You can use Static Generation for many types of pages, including:
+Bir dağın tepesine kurulmuş küçük bir şehir (bu mardin merkezi için geçerli btw) diğer ilçeleri daha büyük ör: 2020'de Mardin'in nüfusu 139.254 iken ilçesi Kızıltepe'nin 261.442 nüfusu var. Ve tahmin edebileceğiniz gibi bazı büyük markalar yok(Zara, Metro, CarrefourSA ve birkaç kadın giyim mağazısı daha).
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+### İnsanları
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+Genelleme yapacak olursam ne dedikleri anlaşılmıyor bazıları Türkçe konuşurken bi anda arapça, kürtçe falan konuşabiliyor ama o kadarda kötü insanalar değildir demek isterim **ama CAHİLLER**(Bu özellike 35 yaş üzerine).
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+### Bahçeşehir Koleji
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+Açıkçası Mavi Dünyayken oraya kötülerdim ama sonra bahçeşehiri gördüm ve dedim ki(açık konuşak gerekirse) o kötüleyen ağzını ... Eğitimi kötü, Disiplin yok(Parayı veren düdüğü çalar gibi; örnek isteseniz çok var: tuvalette sigara içerken müdürün görüp içbir şey yapmaması mı dersiniz sınıfta yiyişenler mi dersiniz öğretmenlere saygısızlık diz boyu...) ama onun dışında tabi derseniz klasik bi okul işte
