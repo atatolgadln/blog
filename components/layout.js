@@ -5,7 +5,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 
 const name = 'Jake'
-export const siteTitle = 'Next.js Sample Website'
+export const siteTitle = "AtaT.'s Blog Site"
 
 
 export default function Layout({ children, home }) {
@@ -15,7 +15,7 @@ export default function Layout({ children, home }) {
           <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
-            content="Learn how to build a personal website using Next.js"
+            content="A personal blog site"
           />
           <meta
             property="og:image"
