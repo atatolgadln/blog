@@ -12,7 +12,7 @@ export default function Layout({ children, home }) {
     return (
       <div className={styles.container}>
         <Head>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/images/profile.png" />
           <meta
             name="description"
             content="A personal blog site"
