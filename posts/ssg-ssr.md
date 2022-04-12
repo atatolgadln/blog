@@ -2,8 +2,6 @@
 title: 'Mardin'
 date: '2022-01-16'
 ---
-# Mardin
-
 ## Daha doğrusu benim Mardin ve içindekiler hakkında (kötü) **düşüncelerim** 🙂
 
 Bir dağın tepesine kurulmuş küçük bir şehir (bu mardin merkezi için geçerli btw) diğer ilçeleri daha büyük ör: 2020'de Mardin'in nüfusu 139.254 iken ilçesi Kızıltepe'nin 261.442 nüfusu var. Ve tahmin edebileceğiniz gibi bazı büyük markalar yok(Zara, Metro, CarrefourSA ve birkaç kadın giyim mağazısı daha).
