@@ -12,4 +12,4 @@ Genelleme yapacak olursam ne dedikleri anlaşılmıyor bazıları Türkçe konu�
 
 ### Bahçeşehir Koleji
 
-Açıkçası Mavi Dünyayken oraya kötülerdim ama sonra bahçeşehiri gördüm ve dedim ki(açık konuşak gerekirse) o kötüleyen ağzını ... Eğitimi kötü, Disiplin yok(Parayı veren düdüğü çalar gibi; örnek isteseniz çok var: tuvalette sigara içerken müdürün görüp içbir şey yapmaması mı dersiniz sınıfta yiyişenler mi dersiniz öğretmenlere saygısızlık diz boyu...) ama onun dışında tabi derseniz klasik bi okul işte
+Açıkçası Mavi Dünyayken oraya kötülerdim ama sonra bahçeşehiri gördüm ve dedim ki(açık konuşak gerekirse) o kötüleyen ağzımı... Eğitimi kötü, Disiplin yok(Parayı veren düdüğü çalar gibi; örnek isteseniz çok var: tuvalette sigara içerken müdürün görüp içbir şey yapmaması mı dersiniz sınıfta yiyişenler mi dersiniz öğretmenlere saygısızlık diz boyu...) ama onun dışında tabi derseniz klasik bi okul işte
