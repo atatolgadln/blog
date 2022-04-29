@@ -21,9 +21,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My Name Is Ata Tolga 🙋</p>
+        //<p>My Name Is Ata Tolga 🙋</p>
         <p>
-          Welcome to my Blog Site! 🎉
+          Hey there 🙋, I'm Ata Tolga (you know me as Whattyu). I currently working with Next.js and building JavaScript Discord bots.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
