@@ -13,6 +13,7 @@ export default function Layout({ children, home }) {
       <div className={styles.container}>
         <Head>
           <link rel="icon" href="/images/profile.png" />
+          <meta name="theme-color" content=#ff6969>
           <meta
             name="description"
             content="A personal website"
