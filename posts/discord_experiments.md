@@ -22,22 +22,17 @@ You need to download Discord Development. Just open this link:
 # Open console, use script
 If we already have Discord Development downloaded, all we need to do is open the console in the client using the shortcut CTRL + SHIFT + I and then paste this code into the console:
 ```JavaScript
-Object.defineProperty(
-  (webpackChunkdiscord_app.push([[""], {}, (e) => {
-    m = [];
-    for (let c in e.c) m.push(e.c[c]);
-  }]),
-    m).find((m) => m?.exports?.default?.isDeveloper !== void 0).exports.default,
-  "isDeveloper",
-  { get: () => true },
-);
+webpackChunkdiscord_app.push([["wp_isdev_patch"], {}, r => cache=Object.values(r.c)]);
+var UserStore = cache.find(m => m?.exports?.default?.getCurrentUser).exports.default;
+var actions = Object.values(UserStore._dispatcher._actionHandlers._dependencyGraph.nodes);
+var user = UserStore.getCurrentUser();
+actions.find(n => n.name === "ExperimentStore").actionHandler.CONNECTION_OPEN({
+	type: "CONNECTION_OPEN", user: {flags: user.flags |= 1}, experiments: [],
+});
+actions.find(n => n.name === "DeveloperExperimentStore").actionHandler.CONNECTION_OPEN();
+webpackChunkdiscord_app.pop(); user.flags &= ~1; "done";
 ```
 This code will set the isDeveloper property to true.
 
 # Test experiments
 Finally, all we have to do is go into the settings and at the very bottom we'll see the Experiments tab. We click on that, and we'll see experiments. You always have a select menu where you can choose what type you want.
-
-
-
-
-Credits to: 'https://hyro.pages.dev/blog/posts/how-to-try-discord-experiments/'
