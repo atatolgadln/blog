@@ -3,7 +3,7 @@ title: "Discord Experiments"
 date: "2022-04-27"
 ---
 
-> ⚠️ It's breaking TOS so be carefully
+> ⚠️ It's breaking ToS so be careful
 
 If you want to try things that discord does that are not yet published you need to do a few things. In this post we'll show how to unblock the "Experiment" tab and how to download the development version of Discord (no canary but you can use canary).
 
