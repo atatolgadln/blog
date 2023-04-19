@@ -5,7 +5,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 
 const name = 'Ata Tolga'
-export const siteTitle = "AtaT.'s Blog Site"
+export const siteTitle = "AtaT.'s Website"
 
 
 export default function Layout({ children, home }) {
@@ -15,7 +15,7 @@ export default function Layout({ children, home }) {
           <link rel="icon" href="/images/profile.png" />
           <meta
             name="description"
-            content="A personal blog site"
+            content="A personal website"
           />
           <meta
             property="og:image"
