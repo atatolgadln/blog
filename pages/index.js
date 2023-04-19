@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hey there 🙋, I'm Ata Tolga (you know me as Whattyu). I currently working with Next.js and building JavaScript Discord bots.
+          Hey there 🙋, I'm Ata Tolga aka Whattyu. I currently working with Next.js and building JavaScript Discord bots.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
